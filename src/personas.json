@@ -1,0 +1,1754 @@
+[
+    {
+        "id": 0,
+        "name": "Orpheus",
+        "lvl": 1,
+        "race": "Fool",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 1,
+        "name": "Apsaras",
+        "lvl": 2,
+        "race": "Priestess",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 2,
+        "name": "Pixie",
+        "lvl": 2,
+        "race": "Lovers",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 3,
+        "name": "Nekomata",
+        "lvl": 3,
+        "race": "Magician",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 4,
+        "name": "Angel",
+        "lvl": 4,
+        "race": "Justice",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 5,
+        "name": "Silky",
+        "lvl": 5,
+        "race": "Lovers",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 6,
+        "name": "Ara Mitama",
+        "lvl": 6,
+        "race": "Chariot",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 7,
+        "name": "Forneus",
+        "lvl": 7,
+        "race": "Emperor",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 8,
+        "name": "Omoikane",
+        "lvl": 7,
+        "race": "Hierophant",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 9,
+        "name": "Jack Frost",
+        "lvl": 8,
+        "race": "Magician",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 10,
+        "name": "Onmoraki",
+        "lvl": 8,
+        "race": "Hermit",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 11,
+        "name": "Lilim",
+        "lvl": 8,
+        "race": "Devil",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 12,
+        "name": "Chimera",
+        "lvl": 9,
+        "race": "Chariot",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 13,
+        "name": "Archangel",
+        "lvl": 10,
+        "race": "Justice",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 14,
+        "name": "Valkyrie",
+        "lvl": 10,
+        "race": "Strength",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 15,
+        "name": "Inugami",
+        "lvl": 10,
+        "race": "Hanged",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 16,
+        "name": "Unicorn",
+        "lvl": 11,
+        "race": "Priestess",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 17,
+        "name": "Slime",
+        "lvl": 12,
+        "race": "Fool",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 18,
+        "name": "Nigi Mitama",
+        "lvl": 12,
+        "race": "Temperance",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 19,
+        "name": "Berith",
+        "lvl": 13,
+        "race": "Hierophant",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 20,
+        "name": "Tam Lin",
+        "lvl": 13,
+        "race": "Lovers",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 21,
+        "name": "Zouchouten",
+        "lvl": 14,
+        "race": "Chariot",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 22,
+        "name": "Gurulu",
+        "lvl": 14,
+        "race": "Moon",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 23,
+        "name": "Jack-o'-Lantern",
+        "lvl": 15,
+        "race": "Magician",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 24,
+        "name": "Fortuna",
+        "lvl": 15,
+        "race": "Fortune",
+        "recipes": [
+            {
+                "Special": [
+                    4,
+                    5,
+                    16
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 25,
+        "name": "Rakshasa",
+        "lvl": 15,
+        "race": "Strength",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 26,
+        "name": "Pisaca",
+        "lvl": 15,
+        "race": "Death",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 27,
+        "name": "Oberon",
+        "lvl": 16,
+        "race": "Emperor",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 28,
+        "name": "Principality",
+        "lvl": 16,
+        "race": "Justice",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 29,
+        "name": "Naga",
+        "lvl": 17,
+        "race": "Hermit",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 30,
+        "name": "Neko Shogun",
+        "lvl": 17,
+        "race": "Star",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 31,
+        "name": "Captain Kidd",
+        "lvl": 18,
+        "race": "Chariot",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 32,
+        "name": "Mokoi",
+        "lvl": 18,
+        "race": "Devil",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 33,
+        "name": "Hua Po",
+        "lvl": 19,
+        "race": "Magician",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 34,
+        "name": "Carmen",
+        "lvl": 19,
+        "race": "Lovers",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 35,
+        "name": "High Pixie",
+        "lvl": 20,
+        "race": "Priestess",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 36,
+        "name": "Sandman",
+        "lvl": 20,
+        "race": "Fortune",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 37,
+        "name": "Take-Minakata",
+        "lvl": 20,
+        "race": "Hanged",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 38,
+        "name": "Leanan Sidhe",
+        "lvl": 21,
+        "race": "Empress",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 39,
+        "name": "Zorro",
+        "lvl": 22,
+        "race": "Magician",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 40,
+        "name": "Matador",
+        "lvl": 22,
+        "race": "Strength",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 41,
+        "name": "Mitra",
+        "lvl": 22,
+        "race": "Temperance",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 42,
+        "name": "Arsene",
+        "lvl": 23,
+        "race": "Fool",
+        "recipes": [
+            {
+                "Special": [
+                    20,
+                    23,
+                    30
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 43,
+        "name": "Take-Mikazuchi",
+        "lvl": 23,
+        "race": "Emperor",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 44,
+        "name": "Shiisaa",
+        "lvl": 23,
+        "race": "Hierophant",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 45,
+        "name": "Narcissus",
+        "lvl": 23,
+        "race": "Lovers",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 46,
+        "name": "Pale Rider",
+        "lvl": 23,
+        "race": "Death",
+        "recipes": [
+            {
+                "Special": [
+                    19,
+                    22,
+                    40
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 47,
+        "name": "Mithras",
+        "lvl": 24,
+        "race": "Chariot",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 48,
+        "name": "Yatagarasu",
+        "lvl": 24,
+        "race": "Sun",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 49,
+        "name": "Power",
+        "lvl": 25,
+        "race": "Justice",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 50,
+        "name": "Lamia",
+        "lvl": 25,
+        "race": "Hermit",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 51,
+        "name": "Yamata-no-Orochi",
+        "lvl": 25,
+        "race": "Moon",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 52,
+        "name": "Legion",
+        "lvl": 26,
+        "race": "Fool",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 53,
+        "name": "Goemon",
+        "lvl": 27,
+        "race": "Emperor",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 54,
+        "name": "Orthrus",
+        "lvl": 27,
+        "race": "Hanged",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 55,
+        "name": "Johanna",
+        "lvl": 28,
+        "race": "Priestess",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 56,
+        "name": "Queen Medb",
+        "lvl": 28,
+        "race": "Lovers",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 57,
+        "name": "Kushi Mitama",
+        "lvl": 28,
+        "race": "Fortune",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 58,
+        "name": "Sati",
+        "lvl": 29,
+        "race": "Magician",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 59,
+        "name": "Jikokuten",
+        "lvl": 29,
+        "race": "Strength",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 60,
+        "name": "Setanta",
+        "lvl": 29,
+        "race": "Star",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 61,
+        "name": "Genbu",
+        "lvl": 30,
+        "race": "Temperance",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 62,
+        "name": "Baphomet",
+        "lvl": 30,
+        "race": "Devil",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 63,
+        "name": "Oni",
+        "lvl": 31,
+        "race": "Chariot",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 64,
+        "name": "Mothman",
+        "lvl": 31,
+        "race": "Hermit",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 65,
+        "name": "Eligor",
+        "lvl": 31,
+        "race": "Tower",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 66,
+        "name": "Sarasvati",
+        "lvl": 32,
+        "race": "Priestess",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 67,
+        "name": "Yakshini",
+        "lvl": 32,
+        "race": "Empress",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 68,
+        "name": "Virtue",
+        "lvl": 32,
+        "race": "Justice",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 69,
+        "name": "Flauros",
+        "lvl": 33,
+        "race": "Hierophant",
+        "recipes": [
+            {
+                "Special": [
+                    7,
+                    19,
+                    65
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 70,
+        "name": "Loa",
+        "lvl": 33,
+        "race": "Death",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 71,
+        "name": "King Frost",
+        "lvl": 34,
+        "race": "Emperor",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 72,
+        "name": "Kaguya",
+        "lvl": 34,
+        "race": "Moon",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 73,
+        "name": "Thunderbird",
+        "lvl": 35,
+        "race": "Sun",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 74,
+        "name": "Milady",
+        "lvl": 36,
+        "race": "Empress",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 75,
+        "name": "Saki Mitama",
+        "lvl": 36,
+        "race": "Lovers",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 76,
+        "name": "Hanuman",
+        "lvl": 36,
+        "race": "Strength",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 77,
+        "name": "Cendrillon",
+        "lvl": 36,
+        "race": "Star",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 78,
+        "name": "Black Frost",
+        "lvl": 37,
+        "race": "Fool",
+        "recipes": [
+            {
+                "Special": [
+                    9,
+                    23,
+                    71
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 79,
+        "name": "Robin Hood",
+        "lvl": 37,
+        "race": "Justice",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 80,
+        "name": "Clotho",
+        "lvl": 37,
+        "race": "Fortune",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 81,
+        "name": "Incubus",
+        "lvl": 37,
+        "race": "Devil",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 82,
+        "name": "Dakini",
+        "lvl": 38,
+        "race": "Hermit",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 83,
+        "name": "Vasuki",
+        "lvl": 38,
+        "race": "Hanged",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 84,
+        "name": "Seiryu",
+        "lvl": 38,
+        "race": "Temperance",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 85,
+        "name": "Orobas",
+        "lvl": 39,
+        "race": "Magician",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 86,
+        "name": "Girimekhala",
+        "lvl": 39,
+        "race": "Moon",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 87,
+        "name": "Thoth",
+        "lvl": 40,
+        "race": "Hierophant",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 88,
+        "name": "Seiten Taisei",
+        "lvl": 40,
+        "race": "Chariot",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 89,
+        "name": "Cu Chulainn",
+        "lvl": 40,
+        "race": "Tower",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 90,
+        "name": "Anubis",
+        "lvl": 40,
+        "race": "Judgement",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 91,
+        "name": "Ose",
+        "lvl": 41,
+        "race": "Fool",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 92,
+        "name": "Ganga",
+        "lvl": 41,
+        "race": "Priestess",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 93,
+        "name": "Samael",
+        "lvl": 41,
+        "race": "Death",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 94,
+        "name": "Hecate",
+        "lvl": 42,
+        "race": "Lovers",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 95,
+        "name": "Dominion",
+        "lvl": 42,
+        "race": "Justice",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 96,
+        "name": "Kaiwan",
+        "lvl": 42,
+        "race": "Star",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 97,
+        "name": "Mercurius",
+        "lvl": 43,
+        "race": "Magician",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 98,
+        "name": "Naga Raja",
+        "lvl": 43,
+        "race": "Emperor",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 99,
+        "name": "Lachesis",
+        "lvl": 44,
+        "race": "Fortune",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 100,
+        "name": "Okuninushi",
+        "lvl": 44,
+        "race": "Temperance",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 101,
+        "name": "Shiki-Ouji",
+        "lvl": 45,
+        "race": "Chariot",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 102,
+        "name": "Quetzalcoatl",
+        "lvl": 45,
+        "race": "Sun",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 103,
+        "name": "Izanagi",
+        "lvl": 46,
+        "race": "Fool",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 104,
+        "name": "Kurama Tengu",
+        "lvl": 46,
+        "race": "Hermit",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 105,
+        "name": "White Rider",
+        "lvl": 46,
+        "race": "Strength",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 106,
+        "name": "Kamu Susano-o",
+        "lvl": 47,
+        "race": "Emperor",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 107,
+        "name": "Hecatoncheires",
+        "lvl": 47,
+        "race": "Hanged",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 108,
+        "name": "Succubus",
+        "lvl": 47,
+        "race": "Devil",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 109,
+        "name": "Nidhoggr",
+        "lvl": 47,
+        "race": "Aeon",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 110,
+        "name": "Parvati",
+        "lvl": 48,
+        "race": "Priestess",
+        "recipes": [
+            {
+                "Special": [
+                    58,
+                    66,
+                    82
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 111,
+        "name": "Hariti",
+        "lvl": 48,
+        "race": "Empress",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 112,
+        "name": "Mishaguji",
+        "lvl": 48,
+        "race": "Hierophant",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 113,
+        "name": "Titania",
+        "lvl": 49,
+        "race": "Lovers",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 114,
+        "name": "Dionysus",
+        "lvl": 49,
+        "race": "Moon",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 115,
+        "name": "Rangda",
+        "lvl": 50,
+        "race": "Magician",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 116,
+        "name": "Magatsu-Izanagi",
+        "lvl": 50,
+        "race": "Tower",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 117,
+        "name": "Ganesha",
+        "lvl": 51,
+        "race": "Star",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 118,
+        "name": "Koumokuten",
+        "lvl": 52,
+        "race": "Chariot",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 119,
+        "name": "Throne",
+        "lvl": 52,
+        "race": "Justice",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 120,
+        "name": "Nebiros",
+        "lvl": 52,
+        "race": "Hermit",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 121,
+        "name": "Anat",
+        "lvl": 53,
+        "race": "Priestess",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 122,
+        "name": "Belphegor",
+        "lvl": 53,
+        "race": "Emperor",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 123,
+        "name": "Decarabia",
+        "lvl": 54,
+        "race": "Fool",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 124,
+        "name": "Astarte",
+        "lvl": 54,
+        "race": "Empress",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 125,
+        "name": "Siegfried",
+        "lvl": 54,
+        "race": "Strength",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 126,
+        "name": "Suzaku",
+        "lvl": 55,
+        "race": "Temperance",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 127,
+        "name": "Jatayu",
+        "lvl": 55,
+        "race": "Sun",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 128,
+        "name": "Atropos",
+        "lvl": 56,
+        "race": "Fortune",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 129,
+        "name": "Pazuzu",
+        "lvl": 56,
+        "race": "Devil",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 130,
+        "name": "Chernobog",
+        "lvl": 56,
+        "race": "Moon",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 131,
+        "name": "Mada",
+        "lvl": 57,
+        "race": "Hanged",
+        "recipes": [
+            {
+                "Special": [
+                    76,
+                    83,
+                    98,
+                    117
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 132,
+        "name": "Uriel",
+        "lvl": 57,
+        "race": "Aeon",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 133,
+        "name": "Mot",
+        "lvl": 58,
+        "race": "Death",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 134,
+        "name": "Vanadis",
+        "lvl": 58,
+        "race": "Star",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 135,
+        "name": "Daisoujou",
+        "lvl": 59,
+        "race": "Hierophant",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 136,
+        "name": "Trumpeter",
+        "lvl": 59,
+        "race": "Judgement",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 137,
+        "name": "Surt",
+        "lvl": 60,
+        "race": "Magician",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 138,
+        "name": "Raphael",
+        "lvl": 60,
+        "race": "Lovers",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 139,
+        "name": "Loki A",
+        "lvl": 60,
+        "race": "Justice",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 140,
+        "name": "Bishamonten",
+        "lvl": 60,
+        "race": "Tower",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 141,
+        "name": "Kikuri-Hime",
+        "lvl": 61,
+        "race": "Priestess",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 142,
+        "name": "Kumbhanda",
+        "lvl": 61,
+        "race": "Hermit",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 143,
+        "name": "Gabriel",
+        "lvl": 62,
+        "race": "Empress",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 144,
+        "name": "Seth",
+        "lvl": 62,
+        "race": "Moon",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 145,
+        "name": "Barong",
+        "lvl": 63,
+        "race": "Emperor",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 146,
+        "name": "Kali",
+        "lvl": 63,
+        "race": "Strength",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 147,
+        "name": "Byakko",
+        "lvl": 63,
+        "race": "Temperance",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 148,
+        "name": "Thor",
+        "lvl": 64,
+        "race": "Chariot",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 149,
+        "name": "Garuda",
+        "lvl": 64,
+        "race": "Star",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 150,
+        "name": "Norn",
+        "lvl": 65,
+        "race": "Fortune",
+        "recipes": [
+            {
+                "Special": [
+                    80,
+                    99,
+                    128
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 151,
+        "name": "Hell Biker",
+        "lvl": 65,
+        "race": "Hanged",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 152,
+        "name": "Lilith",
+        "lvl": 65,
+        "race": "Devil",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 153,
+        "name": "Melchizedek",
+        "lvl": 66,
+        "race": "Justice",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 154,
+        "name": "Cybele",
+        "lvl": 67,
+        "race": "Lovers",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 155,
+        "name": "Qitian Dasheng",
+        "lvl": 67,
+        "race": "Tower",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 156,
+        "name": "Horus",
+        "lvl": 67,
+        "race": "Sun",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 157,
+        "name": "Skadi",
+        "lvl": 68,
+        "race": "Empress",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 158,
+        "name": "Arahabaki",
+        "lvl": 68,
+        "race": "Hermit",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 159,
+        "name": "Alice",
+        "lvl": 68,
+        "race": "Death",
+        "recipes": [
+            {
+                "Special": [
+                    2,
+                    11,
+                    45,
+                    113
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 160,
+        "name": "Loki",
+        "lvl": 69,
+        "race": "Fool",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 161,
+        "name": "Houou",
+        "lvl": 70,
+        "race": "Star",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 162,
+        "name": "Michael",
+        "lvl": 70,
+        "race": "Judgement",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 163,
+        "name": "Kohryu",
+        "lvl": 71,
+        "race": "Hierophant",
+        "recipes": [
+            {
+                "Special": [
+                    61,
+                    84,
+                    126,
+                    147
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 164,
+        "name": "Yurlungur",
+        "lvl": 71,
+        "race": "Temperance",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 165,
+        "name": "Atavaka",
+        "lvl": 72,
+        "race": "Strength",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 166,
+        "name": "Baal Zebul",
+        "lvl": 72,
+        "race": "Moon",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 167,
+        "name": "Lakshmi",
+        "lvl": 73,
+        "race": "Fortune",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 168,
+        "name": "Attis",
+        "lvl": 73,
+        "race": "Hanged",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 169,
+        "name": "Ananta",
+        "lvl": 73,
+        "race": "Aeon",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 170,
+        "name": "Futsunushi",
+        "lvl": 74,
+        "race": "Magician",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 171,
+        "name": "Odin",
+        "lvl": 74,
+        "race": "Emperor",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 172,
+        "name": "Scathach",
+        "lvl": 75,
+        "race": "Priestess",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 173,
+        "name": "Mara",
+        "lvl": 75,
+        "race": "Tower",
+        "recipes": [
+            {
+                "Special": [
+                    81,
+                    129,
+                    133,
+                    142,
+                    168
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 174,
+        "name": "Abaddon",
+        "lvl": 76,
+        "race": "Devil",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 175,
+        "name": "Saturnus",
+        "lvl": 76,
+        "race": "Star",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 176,
+        "name": "Susano-o",
+        "lvl": 77,
+        "race": "Fool",
+        "recipes": [
+            {
+                "Special": [
+                    37,
+                    43,
+                    100,
+                    101,
+                    141
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 177,
+        "name": "Mother Harlot",
+        "lvl": 77,
+        "race": "Empress",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 178,
+        "name": "Thanatos",
+        "lvl": 78,
+        "race": "Death",
+        "recipes": [
+            {
+                "Special": [
+                    26,
+                    46,
+                    70,
+                    93,
+                    133,
+                    159
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 179,
+        "name": "Vishnu",
+        "lvl": 78,
+        "race": "Sun",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 180,
+        "name": "Masakado",
+        "lvl": 79,
+        "race": "Tower",
+        "recipes": [
+            {
+                "Special": [
+                    21,
+                    59,
+                    118,
+                    140
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 181,
+        "name": "Sandalphon",
+        "lvl": 80,
+        "race": "Moon",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 182,
+        "name": "Beelzebub",
+        "lvl": 81,
+        "race": "Devil",
+        "recipes": [
+            {
+                "Special": [
+                    81,
+                    108,
+                    129,
+                    152,
+                    166,
+                    174
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 183,
+        "name": "Shiva",
+        "lvl": 82,
+        "race": "Tower",
+        "recipes": [
+            {
+                "Special": [
+                    115,
+                    145
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 184,
+        "name": "Satan",
+        "lvl": 82,
+        "race": "Judgement",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 185,
+        "name": "Alilat",
+        "lvl": 84,
+        "race": "Empress",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 186,
+        "name": "Asura",
+        "lvl": 85,
+        "race": "Sun",
+        "recipes": [
+            {
+                "Special": [
+                    25,
+                    86,
+                    140,
+                    155,
+                    165,
+                    179
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 187,
+        "name": "Chi You",
+        "lvl": 86,
+        "race": "Tower",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 188,
+        "name": "Metatron",
+        "lvl": 87,
+        "race": "Aeon",
+        "recipes": [
+            {
+                "Special": [
+                    132,
+                    138,
+                    143,
+                    162
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 189,
+        "name": "Helel",
+        "lvl": 88,
+        "race": "Star",
+        "recipes": [],
+        "is_special": false
+    },
+    {
+        "id": 190,
+        "name": "Satanael",
+        "lvl": 89,
+        "race": "Fool",
+        "recipes": [
+            {
+                "Special": [
+                    0,
+                    162,
+                    178,
+                    184,
+                    189,
+                    191
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 191,
+        "name": "Lucifer",
+        "lvl": 89,
+        "race": "Judgement",
+        "recipes": [
+            {
+                "Special": [
+                    93,
+                    174,
+                    182,
+                    184,
+                    189
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 192,
+        "name": "Orpheus Telos",
+        "lvl": 91,
+        "race": "Fool",
+        "recipes": [
+            {
+                "Special": [
+                    178,
+                    186,
+                    187,
+                    188,
+                    189,
+                    193
+                ]
+            }
+        ],
+        "is_special": true
+    },
+    {
+        "id": 193,
+        "name": "Messiah",
+        "lvl": 91,
+        "race": "Judgement",
+        "recipes": [
+            {
+                "Special": [
+                    0,
+                    178
+                ]
+            }
+        ],
+        "is_special": true
+    }
+]
